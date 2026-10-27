@@ -12,3 +12,11 @@ function fun(value){
     console.log(value*2)
 }
 fun(3)
+let obj={
+    name:`deepak`,age:21,branch:`CSE`
+}
+let arr=new Array(obj)
+for(let value of arr)
+{
+    console.log(value)
+}
