@@ -4,7 +4,6 @@ const balance=300
 const account =230   // second commit
 function update(){
     balance +=20
-    console.log(balance)
 }
 update()
 const deepid=1234
