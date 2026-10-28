@@ -19,11 +19,8 @@ let arr=new Array(obj)
 for(let value of arr)
 {
     console.log(value)
-<<<<<<< HEAD
 }
 let deep1={
     classname:"deepak",
          instaid:123
-=======
->>>>>>> parent of 29e30d5 (next)
 }
