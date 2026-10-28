@@ -24,6 +24,20 @@ let deep1={
     classname:"deepak",
          instaid:123
 }
+<<<<<<< HEAD
 while(true){
     console.log("hello coder")
 }
+=======
+while(true)
+{
+    console.log("hello don")
+}
+function don(bank_bal)
+{
+    console.log("hello don")
+const bank_bal1=2000+bank_bal
+console.log(bank_bal)
+}
+don(2000)
+>>>>>>> feature1
