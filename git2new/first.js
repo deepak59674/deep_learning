@@ -24,3 +24,7 @@ let deep1={
     classname:"deepak",
          instaid:123
 }
+while(true)
+{
+    console.log("hello don")
+}
