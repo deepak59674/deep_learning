@@ -19,3 +19,7 @@ for(let value of arr)
 {
     console.log(value)
 }
+let deep1={
+    classname:"deepak",
+         instaid:123
+}
