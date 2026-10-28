@@ -35,3 +35,5 @@ const bank_bal1=2000+bank_bal
 console.log(bank_bal)
 }
 don(2000)
+console.log("deepak kumar prajapti")
+console.log(2+4)
