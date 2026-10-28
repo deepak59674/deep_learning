@@ -4,6 +4,7 @@ const balance=300
 const account =230   // second commit
 function update(){
     balance +=20
+    console.log(balance)
 }
 update()
 const deepid=1234
@@ -18,8 +19,11 @@ let arr=new Array(obj)
 for(let value of arr)
 {
     console.log(value)
+<<<<<<< HEAD
 }
 let deep1={
     classname:"deepak",
          instaid:123
+=======
+>>>>>>> parent of 29e30d5 (next)
 }
