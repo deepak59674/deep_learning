@@ -1,5 +1,5 @@
 const name="deepak"
-const age=20
+const age=40
 const balance=300
 const account =230   // second commit
 function update(){
