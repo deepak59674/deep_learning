@@ -6,3 +6,5 @@ const footer="added footer"
 console.log(footer)
 const pay="payment ko ek new branch bna diye"
 console.log(payment)
+const upi="integrated upi also"
+console.log(upi)
