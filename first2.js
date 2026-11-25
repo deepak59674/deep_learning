@@ -16,3 +16,11 @@ console.log("fixing bug")
 // again finding a new bug
 console.log("agin finding a new bug")
 console.log("deepak")
+function deep(a,b){
+   console.log(a+b) 
+}
+deep(5,6)
+let fun=(a,b)=>{
+    console.log(a*b)
+}
+fun(5,6)
