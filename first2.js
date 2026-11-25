@@ -10,4 +10,6 @@ const upi="integrated upi also"
 console.log(upi)
 
 console.log("latest commit")
-console.log("find bugs")
+console.log("find bugs") 
+// fixing somr bug
+console.log("fixing bug")
